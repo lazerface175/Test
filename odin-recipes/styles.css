@@ -1,0 +1,49 @@
+body{
+    background-color: #25e3fd;
+}
+.title{
+    font-size: 35px;
+    text-align: center;
+    background-color: red;
+}
+.main-menu{
+    width: 50%; margin: 0 auto;
+    text-align: center;
+    background-color: #da1c02;
+    font-size: 25px;
+}
+.chess.bottom.left{
+    width: 300px; 
+    height: 150px;
+}
+.chess.bottom.right{
+    width: 1000px;
+    height: 150px;
+}
+.chess.top.left{
+    width: 500px;
+    height: 400px;
+}
+.chess.chess.top.right{
+    width: 800px;
+    height: 400px;
+}
+.images{
+    width: 400px;
+    height: auto;
+}
+.head{
+    font-size: 25px;
+}
+.text{
+    font-size: 20px;
+}
+button{
+    font-weight: bolder;
+    height: 30px;
+    width: 85px;
+}
+.James{
+    height: auto;
+    width: 500px;
+}
